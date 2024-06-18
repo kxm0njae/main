@@ -12,16 +12,16 @@ export const projects = {
   desc: 'This is a web projects I`ve worked on.',
   projects: [
     {
-      title: '[Web] Image Gallary',
+      title: '[Web] Image Gallery',
       description: 'Click on an image to expand it:',
-      link: 'vercel',
-      github: 'github'
+      link: 'gallery-beta-navy.vercel.app',
+      github: 'kxm0njae/gallery'
     },
     {
       title: '[Web] Book Registration',
       description: 'MyBookList',
-      link: 'vercel',
-      github: 'github'
+      link: 'book-ruddy-sigma.vercel.app/',
+      github: '/kxm0njae/book'
     },
     {
       title: '[Web] User Management',
@@ -57,8 +57,8 @@ export const stack = {
   members: [
     {
       name: '권승원',
-      photoUrl: '/static/photos/profile.png',
-      github: 'github'
+      photoUrl: '/static/photos/Kwon.jpg',
+      github: 'seungwon0109'
     },
     {
       name: '김민기',
@@ -68,12 +68,12 @@ export const stack = {
     {
       name: '윤현식',
       photoUrl: '/static/photos/Yoon.jpg',
-      github: 'github'
+      github: 'YHs1k'
     },
     {
       name: '홍영재',
       photoUrl: '/static/photos/Young.png',
-      github: 'github'
+      github: 'evan3055'
     }
   ]
 };
