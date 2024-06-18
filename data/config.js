@@ -14,7 +14,7 @@ export const projects = {
     {
       title: '[JBU_Demo] JBU_Web_Demo',
       description: '2024_JBU_First_project',
-      link: 'gallery-beta-navy.vercel.app',
+      link: 'kxm0njaes-projects/jbu-web-demo',
       github: 'kxm0njae/JBU_WebDemo'
     },
     {
@@ -27,7 +27,7 @@ export const projects = {
       title: '[MID_Term_Exam] MID_Team_Project',
       description: '2024 MID_Team_Project',
       link: 'jbu-team-homepage.vercel.app',
-      github: 'kxm0njae/gallery'
+      github: 'https://jbu-team-homepage.vercel.app/'
     },
     {
       title: '[Final_Exam] Final_Team_Project',
