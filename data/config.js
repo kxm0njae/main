@@ -12,15 +12,15 @@ export const projects = {
   desc: 'This is a web projects I`ve worked on.',
   projects: [
     {
-      title: '[Web] Image Gallery',
+      title: '[Web] RΛZΞR Store',
       description: 'Click on an image to expand it:',
       link: 'gallery-beta-navy.vercel.app',
       github: 'kxm0njae/gallery'
     },
     {
-      title: '[Web] Book Registration',
-      description: 'MyBookList',
-      link: 'book-ruddy-sigma.vercel.app/',
+      title: '[Web] P/N Registration',
+      description: 'RΛZΞR P/N Registration',
+      link: 'book-ruddy-sigma.vercel.app',
       github: '/kxm0njae/book'
     },
     {
